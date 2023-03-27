@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a95fa2e3-bd72-40f6-9c86-d7d026643a42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/sicredi/base/RequestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/sicredi/dto/SimulaDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/sicredi/test/ConsultaSimulacoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/br/com/sicredi/test/ConsultarRestricao.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Nbid8zjiv6PhCQH1bUTrjKRjMN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Desafio automação API/prova-tecnica-api-master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="JUnit.ConsultaSimulacoes.testComInformacoesIncompletasEStatus400">
+    <configuration name="ConsultaSimulacoes.testComInformacoesIncompletasEStatus400" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sicredi_api_teste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.sicredi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.sicredi.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.sicredi.test.ConsultaSimulacoes" />
+      <option name="METHOD_NAME" value="testComInformacoesIncompletasEStatus400" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsultaSimulacoes.testDeletId" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sicredi_api_teste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.sicredi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.sicredi.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.sicredi.test.ConsultaSimulacoes" />
+      <option name="METHOD_NAME" value="testDeletId" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsultaSimulacoes.testParaRetonarTodosInformacoesEStatus200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sicredi_api_teste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.sicredi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.sicredi.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.sicredi.test.ConsultaSimulacoes" />
+      <option name="METHOD_NAME" value="testParaRetonarTodosInformacoesEStatus200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsultaSimulacoes.testPreenchimentoTodasInfoEStatus201" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sicredi_api_teste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.sicredi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.sicredi.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.sicredi.test.ConsultaSimulacoes" />
+      <option name="METHOD_NAME" value="testPreenchimentoTodasInfoEStatus201" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConsultarRestricao.testCpfComRestricaoStatus200" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sicredi_api_teste" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.sicredi.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.sicredi.test" />
+      <option name="MAIN_CLASS_NAME" value="br.com.sicredi.test.ConsultarRestricao" />
+      <option name="METHOD_NAME" value="testCpfComRestricaoStatus200" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ConsultaSimulacoes.testComInformacoesIncompletasEStatus400" />
+        <item itemvalue="JUnit.ConsultaSimulacoes.testPreenchimentoTodasInfoEStatus201" />
+        <item itemvalue="JUnit.ConsultarRestricao.testCpfComRestricaoStatus200" />
+        <item itemvalue="JUnit.ConsultaSimulacoes.testDeletId" />
+        <item itemvalue="JUnit.ConsultaSimulacoes.testParaRetonarTodosInformacoesEStatus200" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a95fa2e3-bd72-40f6-9c86-d7d026643a42" name="Changes" comment="" />
+      <created>1679939268788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679939268788</updated>
+      <workItem from="1679939270383" duration="12108000" />
+      <workItem from="1679954925220" duration="1285000" />
+      <workItem from="1679956638698" duration="650000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
